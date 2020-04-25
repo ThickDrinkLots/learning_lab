@@ -2,7 +2,6 @@
 # vi: set ft=ruby :
 
 #ENV['VAGRANT_DEFAULT_PROVIDER'] = 'libvirt'
-ENV['VAGRANT_HOME'] = '/data/vm_storage/vagrant_home/'
 CPUS="1"
 MEMORY="1024"
 
